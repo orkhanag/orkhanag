@@ -1,7 +1,7 @@
 ## Orkhan Naghiyev - Software Engineer
 
 ### About me
-Hi, I'm Orkhan Naghiyev, a software engineer with 6+ years of experience with multiple programming languages and different technologies. Right now working in a local e-commerce company and trying to develop an open-source free ORM for .NET to bring the best features of the most used ORMs, into one place. I'm always eager to learn and adapt to new challenges. I strongly believe in continuous learning and sharing knowledge, actively contributing to the developer community through open-source projects.
+Hi 👋, I'm Orkhan Naghiyev, a software engineer with 6+ years of experience with multiple programming languages and different technologies. Right now working in a local e-commerce company and trying to develop an open-source free ORM for .NET to bring the best features of the most used ORMs, into one place. I'm always eager to learn and adapt to new challenges.
 
 ### Skills
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
@@ -23,6 +23,7 @@ Hi, I'm Orkhan Naghiyev, a software engineer with 6+ years of experience with mu
 ![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
 
 ### Contact Information
+[![Stack badge](https://img.shields.io/badge/-orkhannaghiyev-fff?logo=stackoverflow&logoColor=%23F58025)](https://stackoverflow.com/users/5837311/orkhan-naghiyev)
 [![dev.to badge](https://img.shields.io/badge/-orkhannaghiyev-fff?logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/orkhan-naghiyev-60b557112/)
 [![twitter badge](https://img.shields.io/badge/-orxannagisoy-fff?logo=twitter&logoColor=%231D9BF0)](https://twitter.com/orxannagisoy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shadynagy.com)](mailto:orkhan.naghisoy@gmail.com)
