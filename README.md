@@ -1,7 +1,7 @@
 ## Orkhan Naghiyev - Software Engineer
 
 ### About me
-Hi 👋, I'm Orkhan Naghiyev, a software engineer with 6+ years of experience with multiple programming languages and different technologies. Right now working in a local e-commerce company and trying to develop an open-source free ORM for .NET to bring the best features of the most used ORMs, into one place. If you have suggestions for how LaRoy ORM could be improved, or want to report a bug, open an issue! I'd love all and any contributions. You can check it out from here [LaRoy ORM](https://github.com/orkhanag/LaRoy.ORM)
+Hi 👋, I'm Orkhan Naghiyev, a software engineer with 6+ years of experience with multiple programming languages and different technologies. Right now trying to develop an open-source free ORM for .NET to bring the best features of the most used ORMs, into one place. If you have suggestions for how LaRoy ORM could be improved, or want to report a bug, open an issue! I'd love all and any contributions. You can check it out from here [LaRoy ORM](https://github.com/orkhanag/LaRoy.ORM)
 
 ### Skills
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
