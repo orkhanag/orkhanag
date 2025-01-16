@@ -5,7 +5,6 @@ Hi 👋, I'm Orkhan Naghiyev, a software engineer with 8+ years of experience wi
 
 ### Skills
 ![CSharp](https://img.shields.io/badge/-CSharp-fff?&logo=c-sharp&logoColor=blue)
-![Go](https://img.shields.io/badge/-Go-fff?logo=go&logoColor=%2300ADD8)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)
 
