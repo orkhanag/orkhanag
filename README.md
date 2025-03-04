@@ -24,7 +24,7 @@ Hi 👋, I'm Orkhan Naghiyev, a software engineer with 8+ years of experience wi
 ### Contact Information
 [![Stack badge](https://img.shields.io/badge/-orkhannaghiyev-fff?logo=stackoverflow&logoColor=%23F58025)](https://stackoverflow.com/users/5837311/orkhan-naghiyev)
 [![dev.to badge](https://img.shields.io/badge/-orkhannaghiyev-fff?logo=linkedin&logoColor=%230A66C2)](https://www.linkedin.com/in/orkhan-naghiyev-60b557112/)
-[![twitter badge](https://img.shields.io/badge/-orxannagisoy-fff?logo=twitter&logoColor=%231D9BF0)](https://twitter.com/orxannagisoy)
+[![X badge](https://img.shields.io/badge/-orxannagisoy-fff?logo=x&logoColor=black)](https://x.com/orxannagisoy)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@shadynagy.com)](mailto:orkhan.naghisoy@gmail.com)
 
 <a href="https://github.com/orkhanag">
