@@ -19,7 +19,7 @@ Hi 👋, I'm Orkhan Naghiyev, a software engineer with 8+ years of experience wi
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![AWS](https://img.shields.io/badge/-AWS-fff?logo=amazonwebservices&logoColor=%23f79b26)
-![Azure]()
+![Azure](https://img.shields.io/badge/-Azure-fff)
 
 ### Contact Information
 [![Stack badge](https://img.shields.io/badge/-orkhannaghiyev-fff?logo=stackoverflow&logoColor=%23F58025)](https://stackoverflow.com/users/5837311/orkhan-naghiyev)
