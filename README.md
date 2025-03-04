@@ -13,6 +13,7 @@ Hi 👋, I'm Orkhan Naghiyev, a software engineer with 8+ years of experience wi
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-fff?style=flat&logo=Microsoft&logoColor=0078D7)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-fff?style=flat&logo=bootstrap&logoColor=563D7C)
 ![React](https://img.shields.io/badge/-React-fff?logo=react&logoColor=%2361DAFB)
+![Vue](https://img.shields.io/badge/-Vue-fff?logo=vuedotjs)
 ![JQuery](https://img.shields.io/badge/-JQuery-fff?style=flat&logo=jquery&logoColor=blue)
 ![SQL](https://img.shields.io/badge/-SQL-fff?style=flat&logo=Microsoft-SQL-Server&logoColor=blue)
 ![Git](https://img.shields.io/badge/-Git-fff?style=flat&logo=git)
